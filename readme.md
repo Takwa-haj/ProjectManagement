@@ -10,7 +10,7 @@
 
 **Application web de gestion de projets académiques avec indicateurs de performance**
 
-*Mini-Projet — Sujet 5 | Encadrant : Said Sassi*
+*Mini-Projet*
 
 [Fonctionnalités](#-fonctionnalités) •
 [Installation](#-installation) •
@@ -250,12 +250,7 @@ Le `RetardBackgroundService` scanne toutes les tâches **toutes les heures** et 
 
 ---
 
-## 👥 Équipe
 
-> Projet réalisé par une équipe de 2–3 étudiants dans le cadre du
-> mini-projet académique **Sujet 5**, encadré par **Said Sassi**.
-
----
 
 <div align="center">
 
