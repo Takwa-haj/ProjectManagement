@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uy3GFDMrpck=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\takwa\\CSPROJECT\\ProjectManagement\\ProjectManagement\\ProjectManagement.Core\\ProjectManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takwa\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.ComponentModel.Annotations will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\takwa\\CSPROJECT\\ProjectManagement\\ProjectManagement\\ProjectManagement.Core\\ProjectManagement.Core.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\takwa\\CSPROJECT\\ProjectManagement\\ProjectManagement\\ProjectManagement.Core\\ProjectManagement.Core.csproj",
+      "libraryId": "System.ComponentModel.Annotations",
+      "targetGraphs": [
+        "net11.0"
+      ]
+    }
+  ]
+}
